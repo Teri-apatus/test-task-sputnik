@@ -1,1 +1,1 @@
-# Test task Spitnik
+# Test task Sputnik
